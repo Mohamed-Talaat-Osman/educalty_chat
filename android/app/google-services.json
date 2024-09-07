@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "921774174244",
+    "project_id": "educalty-chat",
+    "storage_bucket": "educalty-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921774174244:android:bc501f45637e2db51468b1",
+        "android_client_info": {
+          "package_name": "com.example.educalty_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA6Fh_JabEpXiFzO-3Dbdd6K4z8RF-V94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
